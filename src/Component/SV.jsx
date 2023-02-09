@@ -1,0 +1,6 @@
+export const THEM_SV = 'THEM_SV'
+export const HIENTHI_KQ = 'HIENTHI_KQ'
+export const XOA_SV = 'XOA_SV'
+export const XEM_SV = 'XEM_SV'
+export const SUA_SV = 'SUA_SV'
+export const CAPNHAT_SV = 'CAPNHAT_SV'

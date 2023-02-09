@@ -1,0 +1,13 @@
+.form_Title {
+    font-weight: bolder;
+    color: white;
+    padding: 10px 10px;
+  }
+  .form_Content {
+    padding-top: 20px;
+  }
+  
+  .notifyError {
+    color: red;
+  }
+  
